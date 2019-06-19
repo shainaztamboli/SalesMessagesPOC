@@ -1,0 +1,13 @@
+apple at 10p
+20 sales of apples at 10p each
+Add 20p apples
+orange at 15p
+50 sales of oranges at 15p each
+Substract 10p oranges
+banana at 15p
+50 sales of bananas at 5p each
+Multiply 2p bananas
+pear at 20p
+Substract 9p apples
+Add 7p oranges
+Substract 5p bananas
